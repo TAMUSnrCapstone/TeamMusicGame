@@ -68,7 +68,7 @@ git fetch origin
 git reset --hard origin/[name of branch]
 ```
 
-##Notes about current code
+## Notes about current code
 Unity will run this project successfully on a Windows machine. We have not been able to check the integrity of running the project on a Mac(The project, not the game itself).
 
 If you actually want to build the game, you will need to switch over to the noUnitTests branch. Unit tests prevent build from being made(known issue with unity at the moment). The branch has all unit tests removed, allowing builds to be made.
