@@ -1,0 +1,8 @@
+red_slime_idle.png,32,32,4
+yaktaur_idle.png,32,32,2
+naga_idle.png,32,32,2
+troll_idle.png,32,32,2
+rock_troll_idle.png,32,32,2
+cyclops_idle.png,32,32,2
+minotaur_idle.png,32,32,2
+orpheus_idle.png,32,32,4

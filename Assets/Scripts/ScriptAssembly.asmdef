@@ -1,0 +1,11 @@
+{
+    "name": "ScriptAssembly",
+    "references": [
+        "MidijackAssembly",
+        "SpriteExploderAssembly"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

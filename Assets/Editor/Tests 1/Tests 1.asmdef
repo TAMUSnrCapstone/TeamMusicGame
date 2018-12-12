@@ -1,0 +1,16 @@
+{
+    "name": "Tests1",
+    "references": [
+        "MidijackAssembly",
+        "ScriptAssembly",
+        "SpriteExploderAssembly"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

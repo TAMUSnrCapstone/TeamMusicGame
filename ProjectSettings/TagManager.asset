@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 60
+  - white
+  - black
+  - Note
+  - background
+  - progress_bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - player
+  - exploder_pixels
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1300642775
+    locked: 0
+  - name: enemies
+    uniqueID: 4264870067
+    locked: 0
+  - name: player
+    uniqueID: 2767149907
+    locked: 0
+  - name: UI
+    uniqueID: 305625543
+    locked: 0
+  - name: piano
+    uniqueID: 355306931
+    locked: 0
+  - name: topbar-bg
+    uniqueID: 1438512667
+    locked: 0
+  - name: topbar-mg
+    uniqueID: 3552572749
+    locked: 0
+  - name: topbar-fg
+    uniqueID: 3565491001
+    locked: 0
+  - name: UIEnd
+    uniqueID: 431922635
+    locked: 0
